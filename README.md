@@ -74,11 +74,6 @@ Fake-news-detection/
 
 ---
 
-## 📸 Screenshot
-
-> *(You can add a screenshot of the web interface here)*
-
----
 
 ## 🙌 Credits
 
