@@ -2,8 +2,8 @@ import streamlit as st
 import joblib
 
 # Load the correct vectorizer and model
-vectorizer = joblib.load(r"C:\Users\Dell\Documents\html\real_fake_news\vectorizer.jb")
-model = joblib.load(r"C:\Users\Dell\Documents\html\real_fake_news\logistic_regression_model.jb")
+vectorizer = joblib.load(r"vectorizer.jb")
+model = joblib.load(r"lr_model.jb")
 
 # Streamlit page configuration
 st.set_page_config(page_title="🕵️ Fake News Detector", layout="centered")
